@@ -11,6 +11,12 @@ Description
 [Figma](https://www.figma.com/)
 
 ---
+## :camera_flash: Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+---
 ## :file_folder: Techs
 - [Example](https://nextjs.org/)
 ---
